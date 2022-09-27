@@ -1,14 +1,14 @@
 const rosterItems = [
   {
-    img: '<img src="images/roster/resident-bryce-methven.jpg" class="artist-image" alt="#">',
-    resident: '<p class="artist-name">Resident: Bryce Methven</p>',
-    bio: '<p>' +
-         'Bryce Methven is a DJ and the founder of Kevlar Events. ' +
-         'His vision for Kevlar is to be the top party specialist for Scotland and ' +
-         'to provide a platform for all upcoming local talent. ' +
-         'Bryce has played at various events, including the well known Hectors House in Edinburgh. ' +
-         'With the party and people in mind, a wild night is guaranteed with Bryce as the DJ.' +
-         '</p>'
+    img: `<img src="images/roster/resident-bryce-methven.jpg" class="artist-image" alt="#">`,
+    resident: `<p class="artist-name">Resident: Bryce Methven</p>`,
+    bio: `<p>Bryce Methven founded Kevlar Events in May 2020. 
+          Bryce's current aim is to establish seasonal events in Fife. 
+          Having gained experience playing at various clubs and gigs, paired with hospitality competencies, 
+          Bryce is an excellent host and creates a positive vibe at all of the events he is involved with. 
+          You can expect lots of bass when Bryce DJs. Bryce likes to mix rap vocals with house and techno music. 
+          An entire set includes several genres and styles. 
+          This includes but is not limited to house music, 90s R&B, indie rock melodies, minimal techno and club acapellas.<p> `
   },
   {
     img: '<img src="images/roster/resident-ethan-anderson.jpg" class="artist-image" alt="#">',
