@@ -5,5 +5,5 @@ const sideBarList = document.querySelector(".sidebar-list")
 hamburgerBtn.addEventListener("click", function() {
   hamburgerBtn.classList.toggle("open-btn");
   sideBar.classList.toggle("open");
-  sideBarList.classList.toggle("test");
+  sideBarList.classList.toggle("reveal");
 });
